@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rebeccapurple;
+    font-family: Arial;
+}
+
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+    border-radius: 20px;
+}
+
+div {
+    margin-top: 20px;
+}
+
+h1 {
+    color: darkblue;
+    margin-bottom: 10px;
+
+}
+
+h4 {
+    color: darkblue;
+    margin-bottom: 10px;
+}
+
+.ExpLab h4 {
+    color: darkblue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Container {
+    background-color: whitesmoke;
+    width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.Container img {
+    width: 400px;
+    height: 400px;
+    display: flex;
+}
+
+ul li {
+    list-style: none
+}
+
+
+
+
+.Explicar p {
+    font-size: 20px;
+}
+
+.Hobbies {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em
+}
+
+.Skill {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em
+}

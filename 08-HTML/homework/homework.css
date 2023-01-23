@@ -1,0 +1,43 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url();
+
+}
+
+div {
+    width: 600px;
+    margin: 0 auto;
+    display: flex-flow;
+    justify-content: center;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+img {
+    width: 400px;
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rebeccapurple;
+    padding: 50px;
+    border: thick double black
+}
+
+#spanId {
+    font-size: 50px;
+    margin: 50px;
+    color: white;
+}
